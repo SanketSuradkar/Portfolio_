@@ -678,3 +678,6 @@ module.exports = {
 ```
 
 </details>
+
+
+View live site : https://portfolio2026.netlify.app/
