@@ -48,8 +48,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        Hello! I'm Sanket Suradkar, a final-year Computer Engineering student passionate about coding and problem-solving. I specialize in creating dynamic web applications with skills in Python, C++, and JavaScript, and frameworks like React and Django. My experience extends to working with databases such as MySQL and MongoDB, and utilizing tools like Tailwind CSS, Three.js, Vite, and Git.
-        <br></br>
+I’m a Computer Engineering Graduate and Full-Stack Developer passionate about crafting interactive, scalable, and user-friendly web applications. Skilled in React, Django, Python, C++, Tailwind CSS, Three.js, and MySQL/MongoDB, I love turning ideas into seamless digital experiences. My projects blend clean code, modern design, and performance to deliver impactful solutions. 🚀        <br></br>
         <div className="mt-6">
         <p> 
         <Link className="  text-white  hover:text-purple-900  focus:ring-blue-600 font-medium  px-5 py-2.5   " to="https://drive.google.com/file/d/1eVlNVpTEq_B1VgEItHUubkckALw2Ht3V/view?usp=sharing">View_Resume </Link>
