@@ -7,7 +7,7 @@ import { EarthCanvas } from "./canvas";
 import { SectionWrapper } from "../hoc";
 import { slideIn } from "../utils/motion";
 
-
+// Emial.js module is used with the api that integrate with the reacto to send and revice request, and the request that are recived that can be viewed from the email.js site
 
 const Contact = () => {
   const formRef = useRef();
