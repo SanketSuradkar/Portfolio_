@@ -681,3 +681,4 @@ module.exports = {
 
 
 View live site : https://portfolio2026.netlify.app/
+hosted on Netlify 
