@@ -65,7 +65,7 @@ const Contact = () => {
         }
       );
   };
-
+// this the return function in which all the get in touch and the name and other thing will be includ
   return (
     <div
       className={`xl:mt-12 flex xl:flex-row flex-col-reverse gap-10 overflow-hidden`}
