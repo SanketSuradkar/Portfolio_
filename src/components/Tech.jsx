@@ -3,6 +3,7 @@ import React from "react";
 import { BallCanvas } from "./canvas";
 import { SectionWrapper } from "../hoc";
 import { technologies } from "../constants";
+// tech components consists for the balls naming the languages. 
 
 const Tech = () => {
   return (
