@@ -1,3 +1,4 @@
+// this page is blocked cause i dont use it but if you find this helpfull you can freely use this components by just enabling the code that is commented within the main page 
 import React from "react";
 import { motion } from "framer-motion";
 
