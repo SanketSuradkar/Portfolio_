@@ -1,5 +1,6 @@
 import { useHref } from "react-router-dom";
 import {
+  // when ever trying to add the new module, it stucks and stop working , so do not try to add any new element for the icons and the languages 
   mobile,
   backend,
   creator,
