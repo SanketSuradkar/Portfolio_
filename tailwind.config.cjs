@@ -1,3 +1,4 @@
+// this is the tailwind.cc where the front end part is being processed.
 /** @type {import('tailwindcss').Config} */
 module.exports = {
   content: ["./src/**/*.{js,jsx}"],
