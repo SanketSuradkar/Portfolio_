@@ -94,5 +94,5 @@ const Navbar = () => {
     </nav>
   );
 };
-
+// styling for the navbar and the header leements 
 export default Navbar;
